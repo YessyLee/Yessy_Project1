@@ -35,7 +35,7 @@ Therefore at the end of this process, I will be dropping the following:
 
 From the analysis conducted above and graph below, Action & Adventure genre yields the most average net profit at $509M, followed by Adventure, Action, Comedy and Drama.
 
-![Yessy_Project1](./IMAGES/Net profit.png)
+![Yessy_Project1](./IMAGES/Net_profit.png)
 
 ### Production Cost Insights
 
