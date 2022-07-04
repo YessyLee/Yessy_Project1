@@ -1,4 +1,4 @@
-![Yessy_Project1](./IMAGES/director_shot.jpeg)
+![Yessy_Project1](./images/director_shot.jpeg)
 
 # Insights and Analysis for Microsoft's New Movie Studio 
 
@@ -35,19 +35,19 @@ Therefore at the end of this process, I will be dropping the following:
 
 From the analysis conducted above and graph below, Action & Adventure genre yields the most average net profit at $509M, followed by Adventure, Action, Comedy and Drama.
 
-![Yessy_Project1](./IMAGES/net_profit.png)
+![Yessy_Project1](./images/net_profit.png)
 
 ### Production Cost Insights
 
 Although Action & Adventure genre yields the most profit, but it also cost the most to produce at 145M, comparing to Drama genre only cost 34M in production (Approx. 76% cost less comparing to Action & Adventure genres). See graphs below for more insights.
 
-![Yessy_Project1](./IMAGES/profit_production_cost.png)
+![Yessy_Project1](./images/profit_production_cost.png)
 
 ### Popularity based on number of votes
 
 The popularity is consistent with the net profit with Action & Adventure genres are getting the most votes, comparing to the rest of the genres.
 
-![Yessy_Project1](./IMAGES/popularity_based_on_votes.png)
+![Yessy_Project1](./images/popularity_based_on_votes.png)
 
 ### Number of Genres Made it to Top 700
 
@@ -57,7 +57,7 @@ Although Drama made the less profit in my Top 5 Genres, nonetheless it is still 
 
 Only 125 movies fall under Action & Adventure genres, this genre is a high risk investment due to huge production cost and possibility of making losses. For examples, Dark Phoenix, MIB: International, and Renegades made 157M, 103M and 75M losses respectively. However when this genre is done right and produced properly, it will yield the most profit.
 
-![Yessy_Project1](./IMAGES/genres_top_700.png)
+![Yessy_Project1](./images/genres_top_700.png)
 
 ## Conclusions
 
