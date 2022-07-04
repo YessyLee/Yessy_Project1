@@ -77,9 +77,9 @@ Further analyses could yield additional insights to maximise profitability and p
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Yessy_Project1.ipynb) or review this [presentation](./Yessy_Project1 - Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Yessy_Project1.ipynb)
 
-For additional info, contact Yessy Rayner at [yessy.raynet@gmail.com](mailto:yessy.raynet@gmail.com)
+For additional info, contact Yessy Rayner at [yessy.rayner@gmail.com](mailto:yessy.rayner@gmail.com)
 
 
 ## Repository Structure
